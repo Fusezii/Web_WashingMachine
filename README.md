@@ -1,2 +1,1 @@
-# Web_WashingMachine
-Hello
+# SweCamp
